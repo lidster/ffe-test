@@ -1,0 +1,281 @@
+{
+  "rooms": [
+    {
+      "id": "N/g/86",
+      "title": "N – N/g/86 (Unknown)",
+      "block": "N",
+      "room_number": "N/g/86",
+      "room_name": "Unknown",
+      "total_distinct_items": 25,
+      "items": [
+        {
+          "item": "Bed, single 3' wood surround",
+          "quantity": 3
+        },
+        {
+          "item": "Bedside Cabinet",
+          "quantity": 3
+        },
+        {
+          "item": "Bookcase wooden (wall)",
+          "quantity": 3
+        },
+        {
+          "item": "Bookcase, open front",
+          "quantity": 6
+        },
+        {
+          "item": "Cabinet, bathroom",
+          "quantity": 3
+        },
+        {
+          "item": "Chair Easy",
+          "quantity": 6
+        },
+        {
+          "item": "Chair, operator's",
+          "quantity": 3
+        },
+        {
+          "item": "Coat hook",
+          "quantity": 3
+        },
+        {
+          "item": "Desk Pack",
+          "quantity": 3
+        },
+        {
+          "item": "Double Wardrobe",
+          "quantity": 6
+        },
+        {
+          "item": "Duvet cover - extra",
+          "quantity": 3
+        },
+        {
+          "item": "Duvet, cover & 2 pillows/slips",
+          "quantity": 3
+        },
+        {
+          "item": "Fire exit sign",
+          "quantity": 3
+        },
+        {
+          "item": "Hat & Coat stand",
+          "quantity": 3
+        },
+        {
+          "item": "Lamp, desk",
+          "quantity": 3
+        },
+        {
+          "item": "Mattress, single 3'",
+          "quantity": 3
+        },
+        {
+          "item": "Noticeboard 1200 x 800",
+          "quantity": 3
+        },
+        {
+          "item": "Pillow slips - extra",
+          "quantity": 3
+        },
+        {
+          "item": "Pillows",
+          "quantity": 3
+        },
+        {
+          "item": "Senior officers suites x3",
+          "quantity": 14
+        },
+        {
+          "item": "Sheets",
+          "quantity": 3
+        },
+        {
+          "item": "Sofa",
+          "quantity": 3
+        },
+        {
+          "item": "Standard Lamp",
+          "quantity": 3
+        },
+        {
+          "item": "Table low rectangular",
+          "quantity": 3
+        },
+        {
+          "item": "Waste bin",
+          "quantity": 3
+        }
+      ],
+      "html": "<div style='overflow-x:auto'><table style='width:100%; border-collapse:collapse'><thead><tr><th style='text-align:left; border-bottom:1px solid #ccc'>Item</th><th style='text-align:right; border-bottom:1px solid #ccc'>Qty</th></tr></thead><tbody><tr><td>Bed, single 3&#x27; wood surround</td><td style='text-align:right'>3</td></tr><tr><td>Bedside Cabinet</td><td style='text-align:right'>3</td></tr><tr><td>Bookcase wooden (wall)</td><td style='text-align:right'>3</td></tr><tr><td>Bookcase, open front</td><td style='text-align:right'>6</td></tr><tr><td>Cabinet, bathroom</td><td style='text-align:right'>3</td></tr><tr><td>Chair Easy</td><td style='text-align:right'>6</td></tr><tr><td>Chair, operator&#x27;s</td><td style='text-align:right'>3</td></tr><tr><td>Coat hook</td><td style='text-align:right'>3</td></tr><tr><td>Desk Pack</td><td style='text-align:right'>3</td></tr><tr><td>Double Wardrobe</td><td style='text-align:right'>6</td></tr><tr><td>Duvet cover - extra</td><td style='text-align:right'>3</td></tr><tr><td>Duvet, cover &amp; 2 pillows/slips</td><td style='text-align:right'>3</td></tr><tr><td>Fire exit sign</td><td style='text-align:right'>3</td></tr><tr><td>Hat &amp; Coat stand</td><td style='text-align:right'>3</td></tr><tr><td>Lamp, desk</td><td style='text-align:right'>3</td></tr><tr><td>Mattress, single 3&#x27;</td><td style='text-align:right'>3</td></tr><tr><td>Noticeboard 1200 x 800</td><td style='text-align:right'>3</td></tr><tr><td>Pillow slips - extra</td><td style='text-align:right'>3</td></tr><tr><td>Pillows</td><td style='text-align:right'>3</td></tr><tr><td>Senior officers suites x3</td><td style='text-align:right'>14</td></tr><tr><td>Sheets</td><td style='text-align:right'>3</td></tr><tr><td>Sofa</td><td style='text-align:right'>3</td></tr><tr><td>Standard Lamp</td><td style='text-align:right'>3</td></tr><tr><td>Table low rectangular</td><td style='text-align:right'>3</td></tr><tr><td>Waste bin</td><td style='text-align:right'>3</td></tr></tbody></table></div>"
+    },
+    {
+      "id": "N/1/31",
+      "title": "N – N/1/31 (Junior Officer)",
+      "block": "N",
+      "room_number": "N/1/31",
+      "room_name": "Junior Officer",
+      "total_distinct_items": 18,
+      "items": [
+        {
+          "item": "Bed, single 3' wood surround",
+          "quantity": 1
+        },
+        {
+          "item": "Bedside Cabinet",
+          "quantity": 1
+        },
+        {
+          "item": "Bookcase wooden (wall)",
+          "quantity": 1
+        },
+        {
+          "item": "Chair Easy",
+          "quantity": 1
+        },
+        {
+          "item": "Chair, operator's",
+          "quantity": 1
+        },
+        {
+          "item": "Coat hook",
+          "quantity": 1
+        },
+        {
+          "item": "Desk Pack",
+          "quantity": 1
+        },
+        {
+          "item": "Double Wardrobe",
+          "quantity": 2
+        },
+        {
+          "item": "Duvet cover - extra",
+          "quantity": 1
+        },
+        {
+          "item": "Duvet, cover & 2 pillows/slips",
+          "quantity": 1
+        },
+        {
+          "item": "Fire exit sign",
+          "quantity": 1
+        },
+        {
+          "item": "Lamp, desk",
+          "quantity": 1
+        },
+        {
+          "item": "Mattress, single 3'",
+          "quantity": 1
+        },
+        {
+          "item": "Noticeboard 1200 x 800",
+          "quantity": 1
+        },
+        {
+          "item": "Pillow slips - extra",
+          "quantity": 2
+        },
+        {
+          "item": "Pillows",
+          "quantity": 2
+        },
+        {
+          "item": "Sheets",
+          "quantity": 2
+        },
+        {
+          "item": "Waste bin",
+          "quantity": 1
+        }
+      ],
+      "html": "<div style='overflow-x:auto'><table style='width:100%; border-collapse:collapse'><thead><tr><th style='text-align:left; border-bottom:1px solid #ccc'>Item</th><th style='text-align:right; border-bottom:1px solid #ccc'>Qty</th></tr></thead><tbody><tr><td>Bed, single 3&#x27; wood surround</td><td style='text-align:right'>1</td></tr><tr><td>Bedside Cabinet</td><td style='text-align:right'>1</td></tr><tr><td>Bookcase wooden (wall)</td><td style='text-align:right'>1</td></tr><tr><td>Chair Easy</td><td style='text-align:right'>1</td></tr><tr><td>Chair, operator&#x27;s</td><td style='text-align:right'>1</td></tr><tr><td>Coat hook</td><td style='text-align:right'>1</td></tr><tr><td>Desk Pack</td><td style='text-align:right'>1</td></tr><tr><td>Double Wardrobe</td><td style='text-align:right'>2</td></tr><tr><td>Duvet cover - extra</td><td style='text-align:right'>1</td></tr><tr><td>Duvet, cover &amp; 2 pillows/slips</td><td style='text-align:right'>1</td></tr><tr><td>Fire exit sign</td><td style='text-align:right'>1</td></tr><tr><td>Lamp, desk</td><td style='text-align:right'>1</td></tr><tr><td>Mattress, single 3&#x27;</td><td style='text-align:right'>1</td></tr><tr><td>Noticeboard 1200 x 800</td><td style='text-align:right'>1</td></tr><tr><td>Pillow slips - extra</td><td style='text-align:right'>2</td></tr><tr><td>Pillows</td><td style='text-align:right'>2</td></tr><tr><td>Sheets</td><td style='text-align:right'>2</td></tr><tr><td>Waste bin</td><td style='text-align:right'>1</td></tr></tbody></table></div>"
+    },
+    {
+      "id": "N/G/125",
+      "title": "N – N/G/125 (Junior Officer)",
+      "block": "N",
+      "room_number": "N/G/125",
+      "room_name": "Junior Officer",
+      "total_distinct_items": 18,
+      "items": [
+        {
+          "item": "Bed, single 3' wood surround",
+          "quantity": 1
+        },
+        {
+          "item": "Bedside Cabinet",
+          "quantity": 1
+        },
+        {
+          "item": "Bookcase wooden (wall)",
+          "quantity": 1
+        },
+        {
+          "item": "Chair Easy",
+          "quantity": 1
+        },
+        {
+          "item": "Chair, operator's",
+          "quantity": 1
+        },
+        {
+          "item": "Coat hook",
+          "quantity": 1
+        },
+        {
+          "item": "Desk Pack",
+          "quantity": 1
+        },
+        {
+          "item": "Double Wardrobe",
+          "quantity": 2
+        },
+        {
+          "item": "Duvet cover - extra",
+          "quantity": 1
+        },
+        {
+          "item": "Duvet, cover & 2 pillows/slips",
+          "quantity": 1
+        },
+        {
+          "item": "Fire exit sign",
+          "quantity": 1
+        },
+        {
+          "item": "Lamp, desk",
+          "quantity": 1
+        },
+        {
+          "item": "Mattress, single 3'",
+          "quantity": 1
+        },
+        {
+          "item": "Noticeboard 1200 x 800",
+          "quantity": 1
+        },
+        {
+          "item": "Pillow slips - extra",
+          "quantity": 2
+        },
+        {
+          "item": "Pillows",
+          "quantity": 2
+        },
+        {
+          "item": "Sheets",
+          "quantity": 2
+        },
+        {
+          "item": "Waste bin",
+          "quantity": 1
+        }
+      ],
+      "html": "<div style='overflow-x:auto'><table style='width:100%; border-collapse:collapse'><thead><tr><th style='text-align:left; border-bottom:1px solid #ccc'>Item</th><th style='text-align:right; border-bottom:1px solid #ccc'>Qty</th></tr></thead><tbody><tr><td>Bed, single 3&#x27; wood surround</td><td style='text-align:right'>1</td></tr><tr><td>Bedside Cabinet</td><td style='text-align:right'>1</td></tr><tr><td>Bookcase wooden (wall)</td><td style='text-align:right'>1</td></tr><tr><td>Chair Easy</td><td style='text-align:right'>1</td></tr><tr><td>Chair, operator&#x27;s</td><td style='text-align:right'>1</td></tr><tr><td>Coat hook</td><td style='text-align:right'>1</td></tr><tr><td>Desk Pack</td><td style='text-align:right'>1</td></tr><tr><td>Double Wardrobe</td><td style='text-align:right'>2</td></tr><tr><td>Duvet cover - extra</td><td style='text-align:right'>1</td></tr><tr><td>Duvet, cover &amp; 2 pillows/slips</td><td style='text-align:right'>1</td></tr><tr><td>Fire exit sign</td><td style='text-align:right'>1</td></tr><tr><td>Lamp, desk</td><td style='text-align:right'>1</td></tr><tr><td>Mattress, single 3&#x27;</td><td style='text-align:right'>1</td></tr><tr><td>Noticeboard 1200 x 800</td><td style='text-align:right'>1</td></tr><tr><td>Pillow slips - extra</td><td style='text-align:right'>2</td></tr><tr><td>Pillows</td><td style='text-align:right'>2</td></tr><tr><td>Sheets</td><td style='text-align:right'>2</td></tr><tr><td>Waste bin</td><td style='text-align:right'>1</td></tr></tbody></table></div>"
+    }
+  ]
+}
