@@ -3,6 +3,6 @@
     { "id": "cupboard", "name": "Cupboard" },
     { "id": "chair", "name": "Chair" },
     { "id": "lamp", "name": "Lamp" },
-    { "id": "table", "name": "Table" },    
+    { "id": "table", "name": "Table" }    
   ]
 }
