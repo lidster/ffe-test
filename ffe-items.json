@@ -1,5 +1,15 @@
 {
-  "items": [
+  "C_G_80": [
+    { "id": "desk", "name": "Desk" },
+    { "id": "chair", "name": "Chair" },
+    { "id": "lamp", "name": "Lamp" }
+  ]
+  "C_G_28": [
+    { "id": "desk", "name": "Desk" },
+    { "id": "chair", "name": "Chair" },
+    { "id": "lamp", "name": "Lamp" }
+  ]
+  "C_G_17": [
     { "id": "desk", "name": "Desk" },
     { "id": "chair", "name": "Chair" },
     { "id": "lamp", "name": "Lamp" }
