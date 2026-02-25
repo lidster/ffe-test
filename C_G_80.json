@@ -1,7 +1,5 @@
-{
-  "items": [
-    { "id": "desk", "name": "Desk" },
-    { "id": "chair", "name": "Chair" },
-    { "id": "lamp", "name": "Lamp" }
-  ]
-}
+[
+  { "id": "desk", "name": "Desk" },
+  { "id": "chair", "name": "Chair" },
+  { "id": "lamp", "name": "Lamp" }  
+]
