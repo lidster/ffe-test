@@ -1,10 +1,17 @@
 {
+  "C_G_17": [
+    { "id": "noticeboard", "name": "Noticeboard" },
+    { "id": "lamp", "name": "Lamp" }
+  ],
   "C_G_28": [
     { "id": "noticeboard", "name": "Noticeboard" },
-    { "id": "bed_26", "name": "Bed 2'6\"" }
+    { "id": "bed", "name": "Bed"" },
+    { "id": "lamp", "name": "Lamp"" }
   ],
   "C_G_80": [
     { "id": "noticeboard", "name": "Noticeboard" },
-    { "id": "lamp", "name": "Lamp" }
+    { "id": "lamp", "name": "Lamp" },
+    { "id": "chair", "name": "Chair"" },
+    { "id": "knife", "name": "Knife"" }
   ]
 }
