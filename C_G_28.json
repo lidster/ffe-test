@@ -1,6 +1,7 @@
 [
-    { "id": "cupboard", "name": "Cupboard" },
-    { "id": "chair", "name": "Chair" },
-    { "id": "lamp", "name": "Lamp" },
-    { "id": "table", "name": "Table" }    
+  { "item_id": "cupboard", "qty": 1 },
+  { "item_id": "chair", "qty": 1 },
+  { "item_id": "lamp", "qty": 3 },
+  { "item_id": "table", "qty": 5 }  
 ]
+
