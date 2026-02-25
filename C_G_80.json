@@ -1,5 +1,5 @@
 [
-  { "id": "desk", "name": "Desk" },
-  { "id": "chair", "name": "Chair" },
-  { "id": "lamp", "name": "Lamp" }  
+  { "id_id": "desk", "qty": 1 },
+  { "id_id": "chair", "qty": 4 },
+  { "id_id": "lamp", "qty": 2 }  
 ]
