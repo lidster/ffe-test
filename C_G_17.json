@@ -1,4 +1,9 @@
-[
-  { "id": "lamp", "name": "Lamp" },
-  { "id": "chair", "name": "Chair" }
-]
+{
+  "items": [
+    { "id": "lamp", "name": "Lamp" },
+    { "id": "chair", "name": "Chair" }
+  ]
+  "row_count": [
+    { "id": "2", "name": "2" }
+  ]
+}
