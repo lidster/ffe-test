@@ -1,0 +1,17 @@
+{
+  "C_G_17": [
+    { "item_id": "noticeboard", "qty": 0 },
+    { "item_id": "lamp", "qty": 0 }
+  ],
+  "C_G_28": [
+    { "item_id": "noticeboard", "qty": 0 },
+    { "item_id": "bed", "qty": 0 },
+    { "item_id": "lamp", "qty": 0 }
+  ],
+  "C_G_80": [
+    { "item_id": "noticeboard", "qty": 0 },
+    { "item_id": "lamp", "qty": 0 },
+    { "item_id": "chair", "qty": 0 },
+    { "item_id": "knife", "qty": 0 }
+  ]
+}
