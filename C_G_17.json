@@ -1,9 +1,4 @@
-{
-  "items": [
-    { "id": "lamp", "name": "Lamp" },
-    { "id": "chair", "name": "Chair" }
-  ]
-  "row_count": [
-    { "id": "2", "name": "2" }
-  ]
-}
+[
+  { "item_id": "noticeboard", "qty": 12 },
+  { "item_id": "bed_26", "qty": 12 }
+]
