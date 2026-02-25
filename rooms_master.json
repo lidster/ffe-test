@@ -1,0 +1,10 @@
+{
+  "C_G_28": [
+    { "id": "noticeboard", "name": "Noticeboard" },
+    { "id": "bed_26", "name": "Bed 2'6\"" }
+  ],
+  "C_G_80": [
+    { "id": "noticeboard", "name": "Noticeboard" },
+    { "id": "lamp", "name": "Lamp" }
+  ]
+}
