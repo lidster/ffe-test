@@ -1,0 +1,272 @@
+{
+  "items": [
+    {
+      "id": "3_draw_chest",
+      "name": "3-Draw Chest"
+    },
+    {
+      "id": "3_draw_chest_unit",
+      "name": "3-Draw Chest Unit"
+    },
+    {
+      "id": "battery_wall_clock",
+      "name": "Battery wall clock"
+    },
+    {
+      "id": "bed_26",
+      "name": "Bed 2'6\""
+    },
+    {
+      "id": "bedside_cabinet",
+      "name": "Bedside Cabinet"
+    },
+    {
+      "id": "cantilever_chairs_with_arms",
+      "name": "Cantilever chairs (with arms)"
+    },
+    {
+      "id": "chair",
+      "name": "Chair"
+    },
+    {
+      "id": "chair_cantilever",
+      "name": "Chair (Cantilever)"
+    },
+    {
+      "id": "chair_general",
+      "name": "Chair (general)"
+    },
+    {
+      "id": "chair_op",
+      "name": "Chair (op)"
+    },
+    {
+      "id": "chair_polyprop_seat_pad",
+      "name": "Chair (polyprop seat pad)"
+    },
+    {
+      "id": "chair_visitor",
+      "name": "Chair (visitor)"
+    },
+    {
+      "id": "chair_easy",
+      "name": "Chair Easy"
+    },
+    {
+      "id": "chair_low_easy",
+      "name": "Chair Low Easy"
+    },
+    {
+      "id": "chairs_easy",
+      "name": "Chairs easy"
+    },
+    {
+      "id": "circular_tables",
+      "name": "Circular tables"
+    },
+    {
+      "id": "clock",
+      "name": "Clock"
+    },
+    {
+      "id": "coffee_table",
+      "name": "Coffee Table"
+    },
+    {
+      "id": "cupboard_steel",
+      "name": "Cupboard, Steel"
+    },
+    {
+      "id": "desk_lamp",
+      "name": "Desk Lamp"
+    },
+    {
+      "id": "desk_pack",
+      "name": "Desk Pack"
+    },
+    {
+      "id": "dining_table",
+      "name": "Dining table"
+    },
+    {
+      "id": "double_wardrobe",
+      "name": "Double Wardrobe"
+    },
+    {
+      "id": "duvet_set",
+      "name": "Duvet set"
+    },
+    {
+      "id": "extra_duvet_cover",
+      "name": "Extra Duvet Cover"
+    },
+    {
+      "id": "extra_pillow_slips",
+      "name": "Extra Pillow Slips"
+    },
+    {
+      "id": "filing_cab",
+      "name": "Filing cab"
+    },
+    {
+      "id": "fire_exit_sign",
+      "name": "Fire Exit Sign"
+    },
+    {
+      "id": "fire_extinguisher",
+      "name": "Fire Extinguisher"
+    },
+    {
+      "id": "hat_coat_hooks",
+      "name": "Hat & Coat hooks"
+    },
+    {
+      "id": "hat_coat_stand",
+      "name": "Hat & Coat stand"
+    },
+    {
+      "id": "ironing_board_iron",
+      "name": "Ironing Board / Iron"
+    },
+    {
+      "id": "mattress",
+      "name": "Mattress"
+    },
+    {
+      "id": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "id": "mobile_cutlery_tray_unit",
+      "name": "Mobile Cutlery & Tray unit"
+    },
+    {
+      "id": "mobile_ped",
+      "name": "Mobile Ped"
+    },
+    {
+      "id": "note",
+      "name": "Note"
+    },
+    {
+      "id": "notice_board",
+      "name": "Notice Board"
+    },
+    {
+      "id": "notice_boards",
+      "name": "Notice Boards"
+    },
+    {
+      "id": "noticeboard",
+      "name": "Noticeboard"
+    },
+    {
+      "id": "pillows",
+      "name": "Pillows"
+    },
+    {
+      "id": "planters_square",
+      "name": "Planters square"
+    },
+    {
+      "id": "polypropylene_chair",
+      "name": "Polypropylene Chair"
+    },
+    {
+      "id": "post_bag_stand",
+      "name": "Post Bag stand"
+    },
+    {
+      "id": "racking_linear_mtr",
+      "name": "Racking Linear Mtr"
+    },
+    {
+      "id": "safe_approx_600mm_cube",
+      "name": "Safe (approx 600mm cube)"
+    },
+    {
+      "id": "sanitary_towel_bin_females_only",
+      "name": "Sanitary Towel Bin (Females only)"
+    },
+    {
+      "id": "sheets",
+      "name": "Sheets"
+    },
+    {
+      "id": "single_locker",
+      "name": "Single Locker"
+    },
+    {
+      "id": "single_wardrobe",
+      "name": "Single Wardrobe"
+    },
+    {
+      "id": "small_desk",
+      "name": "Small Desk"
+    },
+    {
+      "id": "table",
+      "name": "Table"
+    },
+    {
+      "id": "table_general_purpose",
+      "name": "Table (General purpose)"
+    },
+    {
+      "id": "table_meeting_1200_dia",
+      "name": "Table (meeting 1200 dia)"
+    },
+    {
+      "id": "tables_1200x800",
+      "name": "Tables 1200x800"
+    },
+    {
+      "id": "towel_hooks_6_way",
+      "name": "Towel Hooks (6-way)"
+    },
+    {
+      "id": "trolley_stainless_steel",
+      "name": "Trolley stainless steel"
+    },
+    {
+      "id": "tv_video_in_secure_cabinet",
+      "name": "TV/Video in secure cabinet"
+    },
+    {
+      "id": "waste_bin",
+      "name": "Waste Bin"
+    },
+    {
+      "id": "waste_bin_large",
+      "name": "Waste Bin (Large)"
+    },
+    {
+      "id": "waste_bin_very_large",
+      "name": "Waste Bin (Very Large)"
+    },
+    {
+      "id": "waste_bins_large",
+      "name": "Waste bins (large)"
+    },
+    {
+      "id": "waste_sack_holder",
+      "name": "Waste Sack Holder"
+    },
+    {
+      "id": "whiteboard",
+      "name": "Whiteboard"
+    },
+    {
+      "id": "wooden_bookcase_wall",
+      "name": "Wooden Bookcase (wall)"
+    },
+    {
+      "id": "wooden_chair_upholstered",
+      "name": "Wooden Chair (upholstered)"
+    },
+    {
+      "id": "workstation",
+      "name": "Workstation"
+    }
+  ]
+}
