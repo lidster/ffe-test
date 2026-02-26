@@ -1,17 +1,17 @@
 {
   "C_G_17": [
-    { "item_id": "noticeboard", "qty": 0 },
-    { "item_id": "lamp", "qty": 0 }
+    { "item_id": "noticeboard", "qty": 2 },
+    { "item_id": "lamp", "qty": 1 }
   ],
   "C_G_28": [
     { "item_id": "noticeboard", "qty": 0 },
-    { "item_id": "bed", "qty": 0 },
-    { "item_id": "lamp", "qty": 0 }
+    { "item_id": "bed", "qty": 5 },
+    { "item_id": "lamp", "qty": 2 }
   ],
   "C_G_80": [
     { "item_id": "noticeboard", "qty": 0 },
-    { "item_id": "lamp", "qty": 0 },
-    { "item_id": "chair", "qty": 0 },
-    { "item_id": "knife", "qty": 0 }
+    { "item_id": "lamp", "qty": 1 },
+    { "item_id": "chair", "qty": 3 },
+    { "item_id": "knife", "qty": 3 }
   ]
 }
